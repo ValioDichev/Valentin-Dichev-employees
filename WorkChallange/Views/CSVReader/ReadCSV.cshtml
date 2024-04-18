@@ -1,0 +1,47 @@
+﻿<form id="fileForm" method="post" enctype="multipart/form-data">
+    <div class="row">
+        <h4>
+            TASK: Pair of employees who have worked together
+        </h4>
+        <p><lable for="FileSelect">Select File</lable></p>
+        <p><input id="fileInput" type="file" name="File" /></p>
+    </div>
+    <div class="row">
+        <div class="col-2">
+            <p><input type="submit" asp-controller="CSVReader" asp-action="ReadCSV" class="btn btn-danger" value="Read CSV File" /></p>
+        </div>
+    </div>
+</form>
+
+@if (!string.IsNullOrWhiteSpace(ViewBag.ValidationMessage))
+{
+    <div class="alert alert-@(ViewBag.UploadStatus ? "success" : "danger") mt-3" role="alert">
+        @ViewBag.ValidationMessage
+    </div>
+}
+
+<p id="errorText" class="alert-danger"></p>
+
+<table class="table">
+    <thead>
+        <tr>
+            @if (ViewBag.WorkerPair != null)
+            {
+                <th>Employee ID #1</th>
+                <th>Employee ID #2</th>
+                <th>Days worked</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @if (ViewBag.WorkerPair != null)
+        {
+            <tr>
+                <td>@ViewBag.WorkerPair.EmployeeID1</td>
+                <td>@ViewBag.WorkerPair.EmployeeID2</td>
+                <td>@ViewBag.WorkerPair.DaysWorked</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

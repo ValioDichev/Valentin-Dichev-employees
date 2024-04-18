@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Val\\source\\repos\\WorkChallange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|c:\\users\\val\\source\\repos\\workchallange\\workchallange\\controllers\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|solutionrelative:workchallange\\controllers\\csvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|c:\\users\\val\\source\\repos\\workchallange\\workchallange\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|solutionrelative:workchallange\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|c:\\users\\val\\source\\repos\\workchallange\\workchallange\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|solutionrelative:workchallange\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|c:\\users\\val\\source\\repos\\workchallange\\workchallange\\views\\csvreader\\readcsv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|solutionrelative:workchallange\\views\\csvreader\\readcsv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|c:\\users\\val\\source\\repos\\workchallange\\workchallange\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|solutionrelative:workchallange\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|c:\\users\\val\\source\\repos\\workchallange\\workchallange\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A5F33F-08C0-4A7A-B9A5-58F113CC80AB}|WorkChallange\\WorkChallange.csproj|solutionrelative:workchallange\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WorkChallange\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WorkChallange\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T10:33:59.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "WorkChallange\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "WorkChallange\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-18T10:03:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WorkChallange\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WorkChallange\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T15:22:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CSVReader.cs",
+              "DocumentMoniker": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\Controllers\\CSVReader.cs",
+              "RelativeDocumentMoniker": "WorkChallange\\Controllers\\CSVReader.cs",
+              "ToolTip": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\Controllers\\CSVReader.cs",
+              "RelativeToolTip": "WorkChallange\\Controllers\\CSVReader.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:53:19.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadCSV.cshtml",
+              "DocumentMoniker": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\Views\\CSVReader\\ReadCSV.cshtml",
+              "RelativeDocumentMoniker": "WorkChallange\\Views\\CSVReader\\ReadCSV.cshtml",
+              "ToolTip": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\Views\\CSVReader\\ReadCSV.cshtml",
+              "RelativeToolTip": "WorkChallange\\Views\\CSVReader\\ReadCSV.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T14:56:46.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WorkChallange\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Val\\source\\repos\\WorkChallange\\WorkChallange\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WorkChallange\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T14:51:38.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
